@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Moataz Osama — CyberSecurity Blog" # the main title
+title: "0xBlog" # the main title
 
 tagline: "Pentesting, Red Team Techniques, and Defensive Research"
 description: >-
