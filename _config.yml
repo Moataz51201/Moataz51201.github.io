@@ -15,7 +15,6 @@ timezone:
 # ↓ --------------------------
 
 title: "0xBlog" # the main title
-
 tagline: "Pentesting, Red Team Techniques, and Defensive Research"
 description: >-
   Research & write-ups on cybersecurity, malware development (lab-based), red team techniques,
