@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obfuscation Principles "
+title: "Obfuscation Principles"
 date: 2025-08-26
 categories: [Red Team,Obfuscation,Malware Analysis,Cybersecurity]
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*3MqLwq_ULUn-MRka-ZspYg.png
@@ -433,5 +433,6 @@ The aforementioned white paper: **Layered Obfuscation Taxonomy**, summarizes the
 By [Moataz Osama](https://medium.com/@mezo512) on [January 15, 2025](https://medium.com/p/16b8affb5f74).
 
 [Canonical link](https://medium.com/@mezo512/obfuscation-principles-16b8affb5f74)
+
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
