@@ -2,7 +2,8 @@
 layout: post
 title: "Bypassing Debugging Detection through PEB Patching"
 date: 2025-08-26
-categories: [Cybersecurity, Red Teaming,Malware Analysis,Reverse Engineering,Digital Forensics,Exploit Development]
+categories: [Defense Evasion]
+tabs: [PEB, Debugging, Anti-Analysis, Windows Internals]
 image: https://cdn-images-1.medium.com/max/800/1*15gFAZAWtcufSSqBVCBpCg.jpeg
 ---
 
@@ -170,5 +171,6 @@ To view the full code for PEB patching, access my GitHub repository [**here**](h
 By [Moataz Osama](https://medium.com/@mezo512) on [October 28, 2024](https://medium.com/p/7eafc868830d).
 
 [Canonical link](https://medium.com/@mezo512/bypassing-debugging-detection-through-peb-patching-7eafc868830d)
+
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
