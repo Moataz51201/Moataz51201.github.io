@@ -2,7 +2,7 @@
 layout: post
 title: "Mastering C2 Servers: Architecture, Redirection Layers, and Covert Techniques"
 date: 2025-08-26
-categories: [Cybersecurity, Red Teaming]
+categories: [Red Team,C2 Server,Blue Team,Empire,Cybersecurity]
 image: https://cdn-images-1.medium.com/max/800/1*15gFAZAWtcufSSqBVCBpCg.jpeg
 ---
 
@@ -386,4 +386,5 @@ By [Moataz Osama](https://medium.com/@mezo512) on [May 17, 2025](https://medium.
 
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
+
 
