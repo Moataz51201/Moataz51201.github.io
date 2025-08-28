@@ -2,7 +2,7 @@
 layout: post
 title: "DLL Hijacking (THM) Writeup: DLL HIJACKING with Invoke-PrintDemon"
 date: 2025-08-26
-categories: [Tryhackme,Dll Hijacking,Empire,Red Team,Cybersecurity]
+categories: [TryHackMe,Dll Hijacking,Empire,Red Team,Cybersecurity]
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*NwSyUNqNZSFWjKdIgaNn2A.png
 ---
 
@@ -282,3 +282,4 @@ By [Moataz Osama](https://medium.com/@mezo512) on [November 6, 2024](https://med
 
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
+
