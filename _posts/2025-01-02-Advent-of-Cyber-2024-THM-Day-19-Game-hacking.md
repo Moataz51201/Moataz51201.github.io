@@ -2,7 +2,7 @@
 layout: post
 title: "Advent of Cyber 2024: Day 19 : Game Hacking"
 date: 2025-08-26
-categories: [Try Hack Me,Red Team,Game Hacking,Metasploit]
+categories: [TryHackMe,Red Team,Game Hacking,Metasploit]
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/0*Dlqf2QJQfvWNfZqp.png
 ---
 
@@ -335,5 +335,6 @@ The second penguin gave pretty solid advice. Maybe you should listen to him more
 By [Moataz Osama](https://medium.com/@mezo512) on [January 2, 2025](https://medium.com/p/21b31cef2e68).
 
 [Canonical link](https://medium.com/@mezo512/advent-of-cyber-2024-thm-day-19-game-hacking-21b31cef2e68)
+
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
