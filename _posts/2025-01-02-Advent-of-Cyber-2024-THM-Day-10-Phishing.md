@@ -2,7 +2,7 @@
 layout: post
 title: "Advent of Cyber 2024: Day 10 : Phishing"
 date: 2025-08-26
-categories: [TryHackMe,Red Team,Phishing,Metasploit]
+categories: [TryHackMe,Phishing,Red Team,Metasploit]
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*wfsbvHIXzzJWitMSKdlZKg.png
 ---
 
@@ -318,3 +318,4 @@ By [Moataz Osama](https://medium.com/@mezo512) on [January 2, 2025](https://medi
 
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
+
