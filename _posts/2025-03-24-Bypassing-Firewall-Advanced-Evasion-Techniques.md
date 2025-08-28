@@ -2,6 +2,7 @@
 layout: post
 title: "Bypassing Firewall: Advanced Evasion Techniques"
 date: 2025-08-26
+pinned: true
 categories: [Red Team,Firewall,Malware Analysis,Malware Development,Blue Team,Cybersecurity]
 image: https://cdn-images-1.medium.com/max/800/1*15gFAZAWtcufSSqBVCBpCg.jpeg
 ---
@@ -303,5 +304,6 @@ The following table summarizes the **Nmap** arguments covered in this article.
 By [Moataz Osama](https://medium.com/@mezo512) on [March 24, 2025](https://medium.com/p/f1b36084bb14).
 
 [Canonical link](https://medium.com/@mezo512/bypassing-firewall-advanced-evasion-techniques-f1b36084bb14)
+
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
