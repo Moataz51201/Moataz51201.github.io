@@ -2,7 +2,7 @@
 layout: post
 title: "Advent of Cyber 2024: Day 10 : Phishing"
 date: 2025-08-26
-categories: [Try Hack Me,Red Team,Phishing,Metasploit]
+categories: [TryHackMe,Red Team,Phishing,Metasploit]
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*wfsbvHIXzzJWitMSKdlZKg.png
 ---
 
@@ -315,5 +315,6 @@ What is the flag value inside the `flag.txt` file that’s located on the Admini
 By [Moataz Osama](https://medium.com/@mezo512) on [January 2, 2025](https://medium.com/p/dab39a13f964).
 
 [Canonical link](https://medium.com/@mezo512/advent-of-cyber-2024-thm-day-10-phishing-dab39a13f964)
+
 
 Exported from [Medium](https://medium.com) on August 26, 2025.
