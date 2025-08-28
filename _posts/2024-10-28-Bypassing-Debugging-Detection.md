@@ -2,7 +2,7 @@
 layout: post
 title: "Bypassing Debugging Detection through PEB Patching"
 date: 2025-08-26
-categories: [Defense Evasion]
+categories: [Red Team,Malware Development,Reverse Engineering,Digital Forensics,Exploit Development]
 tabs: [PEB, Debugging, Anti-Analysis, Windows Internals]
 image: https://cdn-images-1.medium.com/max/800/1*15gFAZAWtcufSSqBVCBpCg.jpeg
 ---
