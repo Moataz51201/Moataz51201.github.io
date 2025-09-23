@@ -219,7 +219,7 @@ Lonely Potato is deprecated and after visiting the [repository](https://github.c
 
 ## Juicy Potato
 
-**Juicy Potato** is Rotten Potato on steroids. It allows a more flexible way to exploit the vulnerability. In this case, [ohpe & decoder](http://ohpe.it/juicy-potato/) during a Windows build review found a setup where **BITS** was intentionally disabled and port **6666** was taken, therefore **Rotten Potato** PoC won’t work.
+**Juicy Potato** is Rotten Potato on steroids. It allows a more flexible way to exploit the vulnerability. In this case, during a Windows build review found a setup where **BITS** was intentionally disabled and port **6666** was taken, therefore **Rotten Potato** PoC won’t work.
 
 #### What are BITS and CLSID?
 
@@ -238,7 +238,7 @@ They discovered that other than BITS there are several out of process COM server
 - Implement the IMarshal interface
 - Run as an elevated user (SYSTEM, Administrator, …)
 
-And they found a lot of them: <http://ohpe.it/juicy-potato/CLSID/>
+And they found a lot of them.
 
 #### What are the advantages?
 
@@ -430,4 +430,5 @@ Search for registry key for **ProxyPassword** with the following command:
 If you need more information on any service, you can simply use the sc qc command.
 
 search for vulnerability on that software:  
+
 **<https://www.exploit-db.com>**
